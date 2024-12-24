@@ -28,3 +28,9 @@
     2. **Index**: `1`, **Manufacturer**: `Samsung`, **Speed**: `3200 MHz`, **Size**: `16 GB`
 - **Display**: `B160UAN01.K / LEN41B7`, **Resolution**: `1920x1200`, **Panel type**: `IPS`
 - **Audio**: `Intel Alder Lake-P PCH - cAVS (Audio, Voice, Speech)`
+- **BIOS Mode**: `UEFI`
+- **Secure Boot State**: `On`
+
+## How am I creating an installation media: 
+- **USB Drive**: `SanDisk Ultra Dual Drive Go USB Type-C™ - 32GB (Black)`
+- `belenaEtcher`
