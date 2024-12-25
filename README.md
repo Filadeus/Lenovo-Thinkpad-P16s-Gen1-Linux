@@ -1,7 +1,7 @@
 # Lenovo-Thinkpad-P16s-Gen1-Linux
   My personal log of attempts to try different Linux distributions on P16s Gen 1 (21BT000MUK) ThinkPad model.  
   I decide to create this repo because, suprisingly, when I was trying to install a modern, up-to-date Linux distro on a decently perfomant and popular option amongst ThinkPad models that Lenovo offers, I encountered many issues while doing that.
-  So far I tried CachyOS (#1), Fedora Workstation 41, Ubuntu Desktop 24.04.1 LTS, and were not even able to perfor a first reboot after a successful install.
+  So far I tried CachyOS (https://github.com/Filadeus/Lenovo-Thinkpad-P16s-Gen1-Linux/issues/1), Fedora Workstation 41, Ubuntu Desktop 24.04.1 LTS, and were not even able to perfor a first reboot after a successful install.
 
 ## Laptop Specs:
 - **Model**: `ThinkPad P16s Gen 1`
